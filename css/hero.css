@@ -12,12 +12,14 @@ header{
 h1{
 	font-size: 90px;
 	color: white;
+	text-shadow: 0 4px 20px black;
 }
 
 header img{
 	border-radius: 60px;
 	width: 350px;
 	border: 20px solid black;
+	box-shadow: 0 10px 20px black;
 }
 
 .content{
